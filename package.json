@@ -1,5 +1,5 @@
 {
-  "name": "R-Txzy",
+  "name": "ArullBotz",
   "version": "2.2.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,10 +14,10 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "R-Txzy",
+  "author": "ArullWara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ariffb25/stikerinbot/issues"
+    "url": "https://github.com/Arullzzz/R/issues"
   },
   "homepage": "https://github.com/ariffb25/stikerinbot",
   "dependencies": {
