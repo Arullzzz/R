@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Screenshot_2220511-205113.png" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
+<img src="Screenshot_2220511-205113.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
 
 </p>
 <h1 align="center">AlyaaXzy X BOTCAHX</h1>
